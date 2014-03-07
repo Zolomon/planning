@@ -1,0 +1,390 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C15-S15-P20-A15' defined
+ ... done.
+
+
+
+Cueing down from goal distance:  176 into depth [1]
+                                 175            [1]
+                                 174            [1]
+                                 173            [1]
+                                 172            [1]
+                                 171            [1]
+                                 170            [1]
+                                 169            [1]
+                                 168            [1]
+                                 167            [1]
+                                 166            [1]
+                                 165            [1]
+                                 164            [1]
+                                 163            [1]
+                                 162            [1]
+                                 161            [1]
+                                 160            [1]
+                                 159            [1]
+                                 158            [1]
+                                 157            [1]
+                                 156            [1]
+                                 155            [1]
+                                 154            [1]
+                                 153            [1]
+                                 152            [1]
+                                 151            [1]
+                                 150            [1]
+                                 149            [1]
+                                 148            [1]
+                                 147            [1]
+                                 146            [1]
+                                 145            [1]
+                                 144            [1]
+                                 143            [1]
+                                 142            [1]
+                                 141            [1]
+                                 140            [1]
+                                 139            [1]
+                                 138            [1]
+                                 137            [1]
+                                 136            [1]
+                                 135            [1]
+                                 134            [1]
+                                 133            [1]
+                                 132            [1]
+                                 131            [1]
+                                 130            [1]
+                                 129            [1]
+                                 128            [1]
+                                 127            [1]
+                                 126            [1]
+                                 125            [1]
+                                 124            [1]
+                                 123            [1]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1][2]
+                                  90            [1]
+                                  89            [1][2]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1][2]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1][2]
+                                  76            [1]
+                                  75            [1][2]
+                                  74            [1][2]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1][2]
+                                  70            [1]
+                                  69            [1][2]
+                                  68            [1]
+                                  67            [1][2]
+                                  66            [1]
+                                  65            [1][2]
+                                  64            [1]
+                                  63            [1]
+                                  62            [1][2]
+                                  61            [1]
+                                  60            [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1]
+                                  55            [1][2]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1][2]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1][2]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: DRIVE-TRUCK T4 L410 L46 C4
+        1: DRIVE-TRUCK T6 L65 L614 C6
+        2: DRIVE-TRUCK T3 L310 L313 C3
+        3: DRIVE-TRUCK T1 L114 L113 C11
+        4: DRIVE-TRUCK T8 L86 L87 C8
+        5: DRIVE-TRUCK T5 L56 L55 C5
+        6: DRIVE-TRUCK T7 L714 L71 C7
+        7: LOAD-TRUCK P0 T4 L46
+        8: DRIVE-TRUCK T4 L46 L41 C4
+        9: LOAD-TRUCK P2 T4 L41
+       10: LOAD-TRUCK P3 T6 L614
+       11: DRIVE-TRUCK T6 L614 L66 C6
+       12: LOAD-TRUCK P4 T4 L41
+       13: LOAD-TRUCK P5 T2 L21
+       14: LOAD-TRUCK P6 T6 L66
+       15: DRIVE-TRUCK T6 L66 L60 C6
+       16: LOAD-TRUCK P8 T3 L313
+       17: DRIVE-TRUCK T3 L313 L314 C3
+       18: LOAD-TRUCK P9 T1 L113
+       19: LOAD-TRUCK P10 T8 L87
+       20: DRIVE-TRUCK T8 L87 L89 C8
+       21: LOAD-TRUCK P11 T3 L314
+       22: DRIVE-TRUCK T3 L314 L36 C3
+       23: LOAD-TRUCK P12 T5 L55
+       24: DRIVE-TRUCK T5 L55 L50 C5
+       25: LOAD-TRUCK P14 T13 L135
+       26: LOAD-TRUCK P15 T8 L89
+       27: LOAD-TRUCK P16 T3 L36
+       28: DRIVE-TRUCK T3 L36 L30 C3
+       29: LOAD-TRUCK P17 T10 L108
+       30: LOAD-TRUCK P18 T7 L71
+       31: DRIVE-TRUCK T7 L71 L711 C7
+       32: LOAD-TRUCK P13 T7 L711
+       33: LOAD-TRUCK P19 T7 L711
+       34: UNLOAD-TRUCK P3 T6 L60
+       35: UNLOAD-TRUCK P6 T6 L60
+       36: FLY-AIRPLANE A0 L10 L60
+       37: UNLOAD-TRUCK P8 T3 L30
+       38: UNLOAD-TRUCK P11 T3 L30
+       39: UNLOAD-TRUCK P12 T5 L50
+       40: UNLOAD-TRUCK P16 T3 L30
+       41: LOAD-AIRPLANE P3 A0 L60
+       42: LOAD-AIRPLANE P6 A0 L60
+       43: FLY-AIRPLANE A0 L60 L50
+       44: LOAD-AIRPLANE P7 A1 L130
+       45: LOAD-AIRPLANE P8 A7 L30
+       46: LOAD-AIRPLANE P11 A7 L30
+       47: FLY-AIRPLANE A7 L30 L90
+       48: LOAD-AIRPLANE P12 A0 L50
+       49: FLY-AIRPLANE A0 L50 L00
+       50: LOAD-AIRPLANE P16 A10 L30
+       51: FLY-AIRPLANE A10 L30 L100
+       52: DRIVE-TRUCK T0 L05 L00 C0
+       53: UNLOAD-AIRPLANE P3 A0 L00
+       54: UNLOAD-AIRPLANE P11 A7 L90
+       55: UNLOAD-AIRPLANE P16 A10 L100
+       56: LOAD-AIRPLANE P1 A11 L120
+       57: LOAD-TRUCK P3 T0 L00
+       58: DRIVE-TRUCK T0 L00 L010 C0
+       59: FLY-AIRPLANE A0 L00 L40
+       60: FLY-AIRPLANE A11 L120 L50
+       61: FLY-AIRPLANE A8 L70 L40
+       62: FLY-AIRPLANE A6 L80 L40
+       63: DRIVE-TRUCK T9 L99 L91 C9
+       64: DRIVE-TRUCK T10 L108 L109 C10
+       65: DRIVE-TRUCK T8 L89 L813 C8
+       66: DRIVE-TRUCK T1 L113 L18 C1
+       67: DRIVE-TRUCK T13 L135 L130 C13
+       68: UNLOAD-TRUCK P14 T13 L130
+       69: LOAD-AIRPLANE P14 A1 L130
+       70: DRIVE-TRUCK T12 L128 L129 C12
+       71: DRIVE-TRUCK T7 L711 L70 C7
+       72: UNLOAD-TRUCK P13 T7 L70
+       73: UNLOAD-TRUCK P18 T7 L70
+       74: UNLOAD-TRUCK P19 T7 L70
+       75: DRIVE-TRUCK T4 L41 L40 C4
+       76: UNLOAD-TRUCK P0 T4 L40
+       77: UNLOAD-TRUCK P2 T4 L40
+       78: UNLOAD-TRUCK P4 T4 L40
+       79: LOAD-AIRPLANE P0 A0 L40
+       80: LOAD-AIRPLANE P2 A0 L40
+       81: LOAD-AIRPLANE P4 A0 L40
+       82: FLY-AIRPLANE A0 L40 L100
+       83: UNLOAD-AIRPLANE P1 A11 L50
+       84: UNLOAD-TRUCK P3 T0 L010
+       85: FLY-AIRPLANE A7 L90 L110
+       86: UNLOAD-AIRPLANE P8 A7 L110
+       87: FLY-AIRPLANE A7 L110 L20
+       88: FLY-AIRPLANE A1 L130 L120
+       89: UNLOAD-AIRPLANE P14 A1 L120
+       90: FLY-AIRPLANE A1 L120 L80
+       91: UNLOAD-AIRPLANE P7 A1 L80
+       92: DRIVE-TRUCK T8 L813 L80 C8
+       93: UNLOAD-TRUCK P10 T8 L80
+       94: LOAD-AIRPLANE P10 A1 L80
+       95: FLY-AIRPLANE A1 L80 L130
+       96: UNLOAD-TRUCK P15 T8 L80
+       97: UNLOAD-AIRPLANE P10 A1 L130
+       98: LOAD-TRUCK P7 T8 L80
+       99: LOAD-TRUCK P10 T13 L130
+      100: DRIVE-TRUCK T13 L130 L133 C13
+      101: UNLOAD-TRUCK P10 T13 L133
+      102: DRIVE-TRUCK T8 L80 L813 C8
+      103: UNLOAD-TRUCK P7 T8 L813
+      104: DRIVE-TRUCK T8 L813 L80 C8
+      105: DRIVE-TRUCK T9 L91 L90 C9
+      106: LOAD-TRUCK P11 T9 L90
+      107: DRIVE-TRUCK T9 L90 L91 C9
+      108: UNLOAD-TRUCK P11 T9 L91
+      109: DRIVE-TRUCK T9 L91 L90 C9
+      110: DRIVE-TRUCK T12 L129 L120 C12
+      111: LOAD-TRUCK P14 T12 L120
+      112: DRIVE-TRUCK T12 L120 L129 C12
+      113: UNLOAD-TRUCK P14 T12 L129
+      114: DRIVE-TRUCK T12 L129 L120 C12
+      115: DRIVE-TRUCK T1 L18 L110 C1
+      116: UNLOAD-TRUCK P9 T1 L110
+      117: LOAD-TRUCK P8 T1 L110
+      118: DRIVE-TRUCK T1 L110 L18 C1
+      119: UNLOAD-TRUCK P8 T1 L18
+      120: DRIVE-TRUCK T1 L18 L111 C1
+      121: FLY-AIRPLANE A0 L100 L110
+      122: LOAD-AIRPLANE P9 A0 L110
+      123: UNLOAD-AIRPLANE P6 A0 L110
+      124: UNLOAD-AIRPLANE P12 A0 L110
+      125: FLY-AIRPLANE A0 L110 L80
+      126: LOAD-AIRPLANE P15 A0 L80
+      127: UNLOAD-AIRPLANE P4 A0 L80
+      128: LOAD-TRUCK P4 T8 L80
+      129: DRIVE-TRUCK T8 L80 L81 C8
+      130: FLY-AIRPLANE A0 L80 L20
+      131: UNLOAD-AIRPLANE P0 A0 L20
+      132: UNLOAD-TRUCK P4 T8 L81
+      133: DRIVE-TRUCK T2 L21 L20 C2
+      134: UNLOAD-TRUCK P5 T2 L20
+      135: LOAD-AIRPLANE P5 A0 L20
+      136: FLY-AIRPLANE A0 L20 L110
+      137: UNLOAD-AIRPLANE P5 A0 L110
+      138: LOAD-TRUCK P0 T2 L20
+      139: DRIVE-TRUCK T2 L20 L21 C2
+      140: FLY-AIRPLANE A0 L110 L100
+      141: UNLOAD-AIRPLANE P9 A0 L100
+      142: UNLOAD-TRUCK P0 T2 L21
+      143: DRIVE-TRUCK T1 L111 L110 C11
+      144: LOAD-TRUCK P5 T1 L110
+      145: LOAD-TRUCK P6 T1 L110
+      146: LOAD-TRUCK P12 T1 L110
+      147: DRIVE-TRUCK T1 L110 L19 C1
+      148: UNLOAD-TRUCK P5 T1 L19
+      149: DRIVE-TRUCK T1 L19 L111 C1
+      150: UNLOAD-TRUCK P6 T1 L111
+      151: UNLOAD-TRUCK P12 T1 L111
+      152: DRIVE-TRUCK T10 L109 L100 C10
+      153: UNLOAD-TRUCK P17 T10 L100
+      154: LOAD-AIRPLANE P17 A0 L100
+      155: FLY-AIRPLANE A0 L100 L70
+      156: LOAD-AIRPLANE P13 A0 L70
+      157: LOAD-AIRPLANE P18 A0 L70
+      158: LOAD-AIRPLANE P19 A0 L70
+      159: UNLOAD-AIRPLANE P2 A0 L70
+      160: UNLOAD-AIRPLANE P17 A0 L70
+      161: FLY-AIRPLANE A0 L70 L90
+      162: UNLOAD-AIRPLANE P13 A0 L90
+      163: FLY-AIRPLANE A0 L90 L40
+      164: UNLOAD-AIRPLANE P18 A0 L40
+      165: FLY-AIRPLANE A0 L40 L120
+      166: UNLOAD-AIRPLANE P15 A0 L120
+      167: UNLOAD-AIRPLANE P19 A0 L120
+      168: LOAD-TRUCK P2 T7 L70
+      169: LOAD-TRUCK P9 T10 L100
+      170: LOAD-TRUCK P13 T9 L90
+      171: DRIVE-TRUCK T9 L90 L98 C9
+      172: LOAD-TRUCK P15 T12 L120
+      173: LOAD-TRUCK P16 T10 L100
+      174: DRIVE-TRUCK T10 L100 L1014 C10
+      175: LOAD-TRUCK P17 T7 L70
+      176: DRIVE-TRUCK T7 L70 L710 C7
+      177: LOAD-TRUCK P18 T4 L40
+      178: DRIVE-TRUCK T4 L40 L48 C4
+      179: LOAD-TRUCK P19 T12 L120
+      180: DRIVE-TRUCK T12 L120 L127 C12
+      181: UNLOAD-TRUCK P2 T7 L710
+      182: UNLOAD-TRUCK P9 T10 L1014
+      183: DRIVE-TRUCK T10 L1014 L109 C10
+      184: UNLOAD-TRUCK P13 T9 L98
+      185: UNLOAD-TRUCK P15 T12 L127
+      186: DRIVE-TRUCK T12 L127 L125 C12
+      187: UNLOAD-TRUCK P16 T10 L109
+      188: UNLOAD-TRUCK P17 T7 L710
+      189: UNLOAD-TRUCK P18 T4 L48
+      190: UNLOAD-TRUCK P19 T12 L125
+     
+
+time spent:    0.02 seconds instantiating 318000 easy, 0 hard action templates
+               0.02 seconds reachability analysis, yielding 5470 facts and 26000 actions
+               0.01 seconds creating final representation with 5470 relevant facts
+               0.00 seconds building connectivity graph
+               2.47 seconds searching, evaluating 2242 states, to a max depth of 2
+               2.52 seconds total time
+
